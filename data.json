@@ -5,26 +5,24 @@
          {
             "id":1,
             "firstTeam":"Man United",
-            "time":"15:00",
+            "time":"2022-02-12T11:51:55.659Z",
             "secondTeam":"Liverpool",
             "league":"premier_league",
-            "type":"live"
          },
          {
             "id":2,
             "firstTeam":"Man City",
+            "time":"2022-02-12T15:51:55.659Z",
             "time":"15:15",
             "secondTeam":"Arsenal",
             "league":"la_liga",
-            "type":"live"
          },
          {
             "id":3,
             "firstTeam":"Bayern",
-            "time":"15:30",
+             "time":"2022-02-12T11:30:55.659Z",
             "secondTeam":"Dortmund",
             "league":"bundes_liga",
-            "type":"live"
          }
       ]
    },
