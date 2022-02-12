@@ -1,36 +1,37 @@
 [
-    {
-      key:"matches",
-      data:[
-        {
-          id: 1,
-          firstTeam: 'Man United',
-          time: '15:00',
-          secondTeam: 'Liverpool',
-          league: 'premier_league',
-          type: 'live',
-        },
-        {
-          id: 2,
-          firstTeam: 'Man City',
-          time: '15:15',
-          secondTeam: 'Arsenal',
-          league: 'la_liga',
-          type: 'live',
-        },
-        {
-          id: 3,
-          firstTeam: 'Bayern',
-          time: '15:30',
-          secondTeam: 'Dortmund',
-          league: 'bundes_liga',
-          type: 'live',
-        },
+   {
+      "key":"matches",
+      "data":[
+         {
+            "id":1,
+            "firstTeam":"Man United",
+            "time":"15:00",
+            "secondTeam":"Liverpool",
+            "league":"premier_league",
+            "type":"live"
+         },
+         {
+            "id":2,
+            "firstTeam":"Man City",
+            "time":"15:15",
+            "secondTeam":"Arsenal",
+            "league":"la_liga",
+            "type":"live"
+         },
+         {
+            "id":3,
+            "firstTeam":"Bayern",
+            "time":"15:30",
+            "secondTeam":"Dortmund",
+            "league":"bundes_liga",
+            "type":"live"
+         }
       ]
-    },
-    {
-      key:"channels",
-      data:[]
-    }
-    }
-  ]
+   },
+   {
+      "key":"channels",
+      "data":[
+         
+      ]
+   }
+]
